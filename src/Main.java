@@ -6,5 +6,8 @@ public class Main {
         System.out.print(" and all the people of the world."); // We print more text to the same line.
 
 // System.out.print("this line will not be executed, because it is commented out");
+//üksteise all asjad
+        System.out.println("\nFirst\nSecond\nThird");
+
     }
 }
