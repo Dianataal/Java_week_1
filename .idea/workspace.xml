@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d19aaa18-d097-4400-a1cf-a5e70adddc89" name="Changes" comment="comments">
+    <list default="true" id="d19aaa18-d097-4400-a1cf-a5e70adddc89" name="Changes" comment="1. basics">
+      <change afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spruce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/World.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -12,6 +16,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +54,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Spruce">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <module name="Java week 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java week 1" />
@@ -51,8 +69,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Name" />
+      <module name="Java week 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spruce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spruce" />
+      <module name="Java week 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="World" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="World" />
+      <module name="Java week 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Spruce" />
+        <item itemvalue="Application.World" />
+        <item itemvalue="Application.Name" />
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -65,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694685659677</updated>
-      <workItem from="1694685660671" duration="1141000" />
+      <workItem from="1694685660671" duration="1930000" />
     </task>
     <task id="LOCAL−00001" summary="comments">
       <option name="closed" value="true" />
@@ -74,7 +117,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1694686750090</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="1. basics">
+      <option name="closed" value="true" />
+      <created>1694686879187</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1694686879187</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="comments" />
+    <MESSAGE value="1. basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. basics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -90,6 +141,14 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Example.java</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Spruce.java</url>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
